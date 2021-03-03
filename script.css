@@ -1,18 +1,15 @@
-.adsFreeSubscriptionMessage.strip {
-    display: none;
-}
-.has-ads-free-promo-header .navBar {
-    top: 38px;
-}
-#ad1,
-#sln-hbanner,
+.adsFreeSubscriptionMessage .strip,
 .takeover .earAdv,
 .buySellDiv,
 .tradeNowRightColumn,
-#ad3,
-.OUTBRAIN {
+.OUTBRAIN,
+.primisslate,
+#ad1,
+#sln-hbanner,
+#ad3 {
     display: none;
 }
-.primisslate {
-    display: none;
+
+.has-ads-free-promo-header .navBar {
+    top: 38px;
 }
