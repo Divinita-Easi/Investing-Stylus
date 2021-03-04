@@ -13,6 +13,9 @@
 #ad3,
 #hpAdVideo,
 #Side_Block_Facebook,
+#TM_Skin_Top, 
+#TM_Skin_Left, 
+#TM_Skin_Right
 div.homepageWidget:nth-of-type(10) {
     display: none !important;
 }
