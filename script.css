@@ -17,6 +17,8 @@
 #TM_Skin_Left, 
 #TM_Skin_Right,
 .portfolioBanners,
+.dfpAdUnitContainer,
+[class^='ad_'],
 div.homepageWidget:nth-of-type(10) {
     display: none !important;
 }
