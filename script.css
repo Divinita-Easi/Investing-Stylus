@@ -19,7 +19,7 @@
 .portfolioBanners,
 .dfpAdUnitContainer,
 [class^="ad_"],
-.ad-free-stripe
+.ad-free-stripe,
 div.homepageWidget:nth-of-type(10) {
     display: none !important;
 }
