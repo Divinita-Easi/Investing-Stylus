@@ -19,10 +19,15 @@
 .portfolioBanners,
 .dfpAdUnitContainer,
 [class^="ad_"],
+.ad-free-stripe
 div.homepageWidget:nth-of-type(10) {
     display: none !important;
 }
 
 .has-ads-free-promo-header .navBar {
     top: 38px;
+}
+
+.billboard_top_page_wrapper {
+    padding-top: 20px !important;
 }
